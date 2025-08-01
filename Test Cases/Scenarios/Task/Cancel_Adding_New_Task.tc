@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel_Adding_New_Task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65a16929-9238-4c8d-a2a6-9beb7be0fde1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa3eaf9b-1cc6-4efd-bbd9-a1715cb2c371</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48c22924-0845-47d2-95ae-00fc0db628fc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Transfer to Friend'</defaultValue>
+      <description></description>
+      <id>fa3eaf9b-1cc6-4efd-bbd9-a1715cb2c371</id>
+      <masked>false</masked>
+      <name>taskTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Use mobile banking to send money to a contact'</defaultValue>
+      <description></description>
+      <id>48c22924-0845-47d2-95ae-00fc0db628fc</id>
+      <masked>false</masked>
+      <name>activity</name>
+   </variable>
+</TestCaseEntity>

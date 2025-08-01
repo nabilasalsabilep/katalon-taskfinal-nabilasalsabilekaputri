@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Edit_Delete_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2326465a-1ef2-468e-ba84-368d530987f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17517cd8-08a9-4ce6-86dd-3cd94dd21ee3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Business'</defaultValue>
+      <description></description>
+      <id>17517cd8-08a9-4ce6-86dd-3cd94dd21ee3</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+</TestCaseEntity>
